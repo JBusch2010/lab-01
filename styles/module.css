@@ -1,0 +1,66 @@
+@media(max-height: 768px){
+  body {
+    width: 960px;
+    margin: auto;
+    background-color: lightsteelblue;
+  }
+
+  section div{
+    height: 768;
+    width: 960;
+  }
+
+  #one{
+    width: 960px;
+    height: 100px;
+    background-color: red;
+  }
+  
+  #two{
+    width: 200px;
+    height: 600px;
+    background-color: white;
+  }
+  
+  #three{
+    width: 380px;
+    height: 200px;
+    background-color: blue;
+  }
+  
+  #four{
+    width: 380px;
+    height: 200px;
+    background-color: lightgreen;
+  }
+  
+  #five{
+    width: 190px;
+    height: 250px;
+    background-color: lightslategray;
+  }
+  
+  #six{
+    width: 190px;
+    height: 250px;
+    background-color: lightsteelblue;
+  }
+  
+  #seven{
+    width: 190px;
+    height: 250px;
+    background-color: seagreen;
+  }
+  
+  #eight{
+    width: 190px;
+    height: 250px;
+    background-color: saddlebrown;
+  }
+  
+  #nine{
+    width: 760px;
+    height: 150px;
+    background-color: crimson;
+  }
+}
