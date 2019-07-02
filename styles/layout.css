@@ -1,0 +1,126 @@
+body {
+  width:480px;
+  margin: auto;
+  background-color: white;
+}
+
+section {
+  float: left;
+}
+
+#one{
+  width: 480px;
+  height: 75px;
+  background-color: #d7bb2b;
+}
+
+#two{
+  width: 480px;
+  height: 150px;
+  background-color: #da1f28;
+}
+
+#three{
+  width: 480px;
+  height: 125px;
+  background-color: #6a0c0b;
+}
+
+#four{
+  width: 480px;
+  height: 125px;
+  background-color: #b97d10;
+}
+
+#five{
+  width: 240px;
+  height: 250px;
+  background-color: #d7bb2b;
+}
+
+#six{
+  float: left;
+  width: 240px;
+  height: 250px;
+  background-color: #fbca03;
+}
+
+#seven{
+  width: 240px;
+  height: 250px;
+  background-color: #67c7eb;
+}
+
+#eight{
+  float: right;
+  width: 240px;
+  height: 250px;
+  background-color: black;
+}
+
+#nine{
+  width: 480px;
+  height: 80px;
+  background-color: grey;
+}
+
+@media(max-width: 768px){
+  body {
+    max-width: 960px;
+    background-color: white;
+  }
+
+  #one{
+    width: 960px;
+    height: 100px;
+    background-color: #d7bb2b;
+  }
+  
+  #two{
+    width: 200px;
+    height: 600px;
+    background-color: #da1f28;
+  }
+  
+  #three{
+    width: 380px;
+    height: 200px;
+    background-color: #6a0c0b;
+  }
+  
+  #four{
+    width: 380px;
+    height: 200px;
+    background-color: #b97d10;
+  }
+  
+  #five{
+    width: 190px;
+    height: 250px;
+    background-color: #d7bb2b;
+  }
+  
+  #six{
+    width: 190px;
+    height: 250px;
+    background-color: #fbca03;
+  }
+  
+  #seven{
+    width: 190px;
+    height: 250px;
+    background-color: #67c7eb;
+  }
+  
+  #eight{
+    width: 190px;
+    height: 250px;
+    background-color: black;
+  }
+  
+  #nine{
+    width: 760px;
+    height: 150px;
+    background-color: grey;
+  }
+}
