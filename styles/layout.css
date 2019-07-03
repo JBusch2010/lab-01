@@ -1,3 +1,4 @@
+/* For mobile*/
 body {
   width:480px;
   margin: auto;
@@ -7,6 +8,11 @@ body {
 section div{
   float: left;
   border: solid black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
 }
 
 #one{
