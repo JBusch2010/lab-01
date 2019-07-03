@@ -1,3 +1,4 @@
+/* For Desktop*/
 @media(max-height: 768px){
   body {
     width: 960px;
@@ -8,6 +9,11 @@
   section div{
     height: 768;
     width: 960;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
   }
 
   #one{
@@ -19,7 +25,7 @@
   #two{
     width: 200px;
     height: 600px;
-    background-color: white;
+    background-color: lightpink;
   }
   
   #three{
